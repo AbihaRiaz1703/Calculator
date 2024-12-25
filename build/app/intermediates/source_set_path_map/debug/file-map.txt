@@ -1,0 +1,28 @@
+com.example.calculator.app-jetified-savedstate-1.2.1-0 C:\Users\Bisma\.gradle\caches\transforms-3\119ff4afd1afb18f1386a86b48edd0e1\transformed\jetified-savedstate-1.2.1\res
+com.example.calculator.app-jetified-lifecycle-livedata-core-ktx-2.7.0-1 C:\Users\Bisma\.gradle\caches\transforms-3\1a5f84d4480fbd840964be70e6192491\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.calculator.app-jetified-window-java-1.2.0-2 C:\Users\Bisma\.gradle\caches\transforms-3\1cd9c35071ddcad09eaefb12b3288a94\transformed\jetified-window-java-1.2.0\res
+com.example.calculator.app-jetified-tracing-1.2.0-3 C:\Users\Bisma\.gradle\caches\transforms-3\2e3e62dee98a63f7aa03f5cac9e8a63d\transformed\jetified-tracing-1.2.0\res
+com.example.calculator.app-jetified-startup-runtime-1.1.1-4 C:\Users\Bisma\.gradle\caches\transforms-3\301cd88c528d436a57bf3b6a25551561\transformed\jetified-startup-runtime-1.1.1\res
+com.example.calculator.app-jetified-window-1.2.0-5 C:\Users\Bisma\.gradle\caches\transforms-3\61b646fe49f67281254a84f48ad4fbfb\transformed\jetified-window-1.2.0\res
+com.example.calculator.app-jetified-lifecycle-process-2.7.0-6 C:\Users\Bisma\.gradle\caches\transforms-3\62d3d8bb0e9507fe9c8555e8b06ab135\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.calculator.app-lifecycle-livedata-2.7.0-7 C:\Users\Bisma\.gradle\caches\transforms-3\689b97724a28012abcb00f7d12412831\transformed\lifecycle-livedata-2.7.0\res
+com.example.calculator.app-jetified-profileinstaller-1.3.1-8 C:\Users\Bisma\.gradle\caches\transforms-3\78c4db09434f467a30296cee09258da8\transformed\jetified-profileinstaller-1.3.1\res
+com.example.calculator.app-jetified-core-ktx-1.13.1-9 C:\Users\Bisma\.gradle\caches\transforms-3\923b92f6f2cd7c853ec90cd1fafd714d\transformed\jetified-core-ktx-1.13.1\res
+com.example.calculator.app-core-1.13.1-10 C:\Users\Bisma\.gradle\caches\transforms-3\9e62d3c3958ec4b8b9fb699b53380c94\transformed\core-1.13.1\res
+com.example.calculator.app-core-runtime-2.2.0-11 C:\Users\Bisma\.gradle\caches\transforms-3\a3115a4b3a24485a5c38aecb02bb1f2e\transformed\core-runtime-2.2.0\res
+com.example.calculator.app-jetified-annotation-experimental-1.4.0-12 C:\Users\Bisma\.gradle\caches\transforms-3\b1f08621f1eda8df2590e07f66e97486\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.calculator.app-lifecycle-viewmodel-2.7.0-13 C:\Users\Bisma\.gradle\caches\transforms-3\b451ad8c7efe1240ff041c19d5deb830\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.calculator.app-lifecycle-livedata-core-2.7.0-14 C:\Users\Bisma\.gradle\caches\transforms-3\d6b4e53a8c6ab37207ed7eb37f8bcce5\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.calculator.app-jetified-core-1.0.0-15 C:\Users\Bisma\.gradle\caches\transforms-3\d7186cf5ef1a524c9a8aab9f1e5f3afd\transformed\jetified-core-1.0.0\res
+com.example.calculator.app-jetified-activity-1.8.1-16 C:\Users\Bisma\.gradle\caches\transforms-3\def63b78721e525ecde58c90680a5d60\transformed\jetified-activity-1.8.1\res
+com.example.calculator.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-17 C:\Users\Bisma\.gradle\caches\transforms-3\e7e6e76c70d2e2f833360e1375e5d984\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.calculator.app-lifecycle-runtime-2.7.0-18 C:\Users\Bisma\.gradle\caches\transforms-3\f46889076561df891a6f54cc67c5e4fc\transformed\lifecycle-runtime-2.7.0\res
+com.example.calculator.app-fragment-1.7.1-19 C:\Users\Bisma\.gradle\caches\transforms-3\f65cd6c525e9500e3617435c090a704b\transformed\fragment-1.7.1\res
+com.example.calculator.app-debug-20 C:\Users\Bisma\Desktop\ALL FOLDERS\BAAAbiha\ALL STUPIDITY\Last try\neverending\calcu\calculator\android\app\src\debug\res
+com.example.calculator.app-main-21 C:\Users\Bisma\Desktop\ALL FOLDERS\BAAAbiha\ALL STUPIDITY\Last try\neverending\calcu\calculator\android\app\src\main\res
+com.example.calculator.app-pngs-22 C:\Users\Bisma\Desktop\ALL FOLDERS\BAAAbiha\ALL STUPIDITY\Last try\neverending\calcu\calculator\build\app\generated\res\pngs\debug
+com.example.calculator.app-resValues-23 C:\Users\Bisma\Desktop\ALL FOLDERS\BAAAbiha\ALL STUPIDITY\Last try\neverending\calcu\calculator\build\app\generated\res\resValues\debug
+com.example.calculator.app-rs-24 C:\Users\Bisma\Desktop\ALL FOLDERS\BAAAbiha\ALL STUPIDITY\Last try\neverending\calcu\calculator\build\app\generated\res\rs\debug
+com.example.calculator.app-mergeDebugResources-25 C:\Users\Bisma\Desktop\ALL FOLDERS\BAAAbiha\ALL STUPIDITY\Last try\neverending\calcu\calculator\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.calculator.app-mergeDebugResources-26 C:\Users\Bisma\Desktop\ALL FOLDERS\BAAAbiha\ALL STUPIDITY\Last try\neverending\calcu\calculator\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.calculator.app-merged_res-27 C:\Users\Bisma\Desktop\ALL FOLDERS\BAAAbiha\ALL STUPIDITY\Last try\neverending\calcu\calculator\build\app\intermediates\merged_res\debug
